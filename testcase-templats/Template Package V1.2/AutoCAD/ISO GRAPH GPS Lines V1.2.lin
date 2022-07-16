@@ -1,0 +1,537 @@
+;;
+;;
+;;  GPS linetypes for illustrations in standards other than technical drawings
+;;  The size of the line segments for each defined ISO line:
+;;  A = 0,087mm; B = 0,13 mm; C = 0,18 mm; D = 0,25 mm;
+;;  E = 0,35 mm; F = 0,5 mm; G = 0,7 mm; H = 1,0 mm
+;;
+;;
+*GPS_LT1B_B,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,1.56,-.52
+*GPS_LT1B_C,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,2.16,-.72
+*GPS_LT1B_D,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,3,-1
+*GPS_LT1B_E,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,4.2,-1.4
+*GPS_LT1B_F,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,6,-2
+*GPS_LT1B_G,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,8.4,-2.8
+*GPS_LT1B_H,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,12,-4
+*GPS_LT2A_B,long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,3.12,-.52,.13,-.52
+*GPS_LT2A_C,long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,4.32,-.72,.18,-.72
+*GPS_LT2A_D,long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,6,-1,.25,-1
+*GPS_LT2A_E,long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,8.4,-1.4,.35,-1.4
+*GPS_LT2A_F,long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,12,-2,.5,-2
+*GPS_LT2A_G,long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,16.8,-2.8,.7,-2.8
+*GPS_LT2A_H,long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,24,-4,1,-4
+*GPS_LT2B_B,dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,1.56,-.52,.13,-.52
+*GPS_LT2B_C,dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,2.16,-.72,.18,-.72
+*GPS_LT2B_D,dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,3,-1,.25,-1
+*GPS_LT2B_E,dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,4.2,-1.4,.35,-1.4
+*GPS_LT2B_F,dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,6,-2,.5,-2
+*GPS_LT2B_G,dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,8.4,-2.8,.7,-2.8
+*GPS_LT2B_H,dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,12,-4,1,-4
+*GPS_LT3B_B,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,1.56,-.52
+*GPS_LT3B_C,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,2.16,-.72
+*GPS_LT3B_D,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,3,-1
+*GPS_LT3B_E,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,4.2,-1.4
+*GPS_LT3B_F,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,6,-2
+*GPS_LT3B_G,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,8.4,-2.8
+*GPS_LT3B_H,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,12,-4
+*GPS_LT4A_B,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.13,-.52
+*GPS_LT4A_C,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.18,-.72
+*GPS_LT4A_D,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.25,-1
+*GPS_LT4A_E,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.35,-1.4
+*GPS_LT4A_F,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.5,-2
+*GPS_LT4A_G,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.7,-2.8
+*GPS_LT4A_H,dotted line. . . . . . . . . . . . . . . . . . . .
+A,1,-4
+*GPS_LT4B_B,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.13,-.52
+*GPS_LT4B_C,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.18,-.72
+*GPS_LT4B_D,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.25,-1
+*GPS_LT4B_E,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.35,-1.4
+*GPS_LT4B_F,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.5,-2
+*GPS_LT4B_G,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.7,-2.8
+*GPS_LT4B_H,dotted line. . . . . . . . . . . . . . . . . . . .
+A,1,-4
+*GPS_LT5A_B,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,.78,-.52
+*GPS_LT5A_C,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,1.08,-.72
+*GPS_LT5A_D,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,1.5,-1
+*GPS_LT5A_E,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,2.1,-1.4
+*GPS_LT5A_F,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,3,-2
+*GPS_LT5A_G,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,4.2,-2.8
+*GPS_LT5A_H,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,6,-4
+*GPS_LT5B_B,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,.78,-.52
+*GPS_LT5B_C,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,1.08,-.72
+*GPS_LT5B_D,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,1.5,-1
+*GPS_LT5B_E,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,2.1,-1.4
+*GPS_LT5B_F,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,3,-2
+*GPS_LT5B_G,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,4.2,-2.8
+*GPS_LT5B_H,short dashed line _ _ _ _ _ _ _ _ _ _ _ _ _
+A,6,-4
+*GPS_LT6A_B,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.13,-.52
+*GPS_LT6A_C,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.18,-.72
+*GPS_LT6A_D,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.25,-1
+*GPS_LT6A_E,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.35,-1.4
+*GPS_LT6A_F,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.5,-2
+*GPS_LT6A_G,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.7,-2.8
+*GPS_LT6A_H,dotted line. . . . . . . . . . . . . . . . . . . .
+A,1,-4
+*GPS_LT6B_B,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.13,-.52
+*GPS_LT6B_C,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.18,-.72
+*GPS_LT6B_D,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.25,-1
+*GPS_LT6B_E,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.35,-1.4
+*GPS_LT6B_F,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.5,-2
+*GPS_LT6B_G,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.7,-2.8
+*GPS_LT6B_H,dotted line. . . . . . . . . . . . . . . . . . . .
+A,1,-4
+*GPS_LT7A_B,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,1.56,-.52,1.56,-.52,.13,-.52,.13,-.52
+*GPS_LT7A_C,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,2.16,-.72,2.16,-.72,.18,-.72,.18,-.72
+*GPS_LT7A_D,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,3,-1,3,-1,.25,-1,.25,-1
+*GPS_LT7A_E,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,4.2,-1.4,4.2,-1.4,.35,-1.4,.35,-1.4
+*GPS_LT7A_F,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,6,-2,6,-2,.5,-2,.5,-2
+*GPS_LT7A_G,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,8.4,-2.8,8.4,-2.8,.7,-2.8,.7,-2.8
+*GPS_LT7A_H,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,12,-4,12,-4,1,-4,1,-4
+*GPS_LT7B_B,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,1.56,-.52,1.56,-.52,.13,-.52,.13,-.52
+*GPS_LT7B_C,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,2.16,-.72,2.16,-.72,.18,-.72,.18,-.72
+*GPS_LT7B_D,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,3,-1,3,-1,.25,-1,.25,-1
+*GPS_LT7B_E,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,4.2,-1.4,4.2,-1.4,.35,-1.4,.35,-1.4
+*GPS_LT7B_F,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,6,-2,6,-2,.5,-2,.5,-2
+*GPS_LT7B_G,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,8.4,-2.8,8.4,-2.8,.7,-2.8,.7,-2.8
+*GPS_LT7B_H,double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,12,-4,12,-4,1,-4,1,-4
+*GPS_LT8A_B,long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,3.12,-.52,.13,-.52,.13,-.52
+*GPS_LT8A_C,long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,4.32,-.72,.18,-.72,.18,-.72
+*GPS_LT8A_D,long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,6,-1,.25,-1,.25,-1
+*GPS_LT8A_E,long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,8.4,-1.4,.35,-1.4,.35,-1.4
+*GPS_LT8A_F,long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,12,-2,.5,-2,.5,-2
+*GPS_LT8A_G,long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,16.8,-2.8,.7,-2.8,.7,-2.8
+*GPS_LT8A_H,long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,24,-4,1,-4,1,-4
+*GPS_LT8B_B,dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,1.56,-.52,.13,-.52,.13,-.52
+*GPS_LT8B_C,dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,2.16,-.72,.18,-.72,.18,-.72
+*GPS_LT8B_D,dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,3,-1,.25,-1,.25,-1
+*GPS_LT8B_E,dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,4.2,-1.4,.35,-1.4,.35,-1.4
+*GPS_LT8B_F,dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,6,-2,.5,-2,.5,-2
+*GPS_LT8B_G,dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,8.4,-2.8,.7,-2.8,.7,-2.8
+*GPS_LT8B_H,dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,12,-4,1,-4,1,-4
+*GPS_LT9A_B,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,3.12,-.52,.78,-.52,.78,-.52
+*GPS_LT9A_C,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,4.32,-.72,1.08,-.72,1.08,-.72
+*GPS_LT9A_D,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,6,-1,1.5,-1,1.5,-1
+*GPS_LT9A_E,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,8.4,-1.4,2.1,-1.4,2.1,-1.4
+*GPS_LT9A_F,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,12,-2,3,-2,3,-2
+*GPS_LT9A_G,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,16.8,-2.8,4.2,-2.8,4.2,-2.8
+*GPS_LT9A_H,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,24,-4,6,-4,6,-4
+*GPS_LT9B_B,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,3.12,-.52,.78,-.52,.78,-.52
+*GPS_LT9B_C,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,4.32,-.72,1.08,-.72,1.08,-.72
+*GPS_LT9B_D,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,6,-1,1.5,-1,1.5,-1
+*GPS_LT9B_E,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,8.4,-1.4,2.1,-1.4,2.1,-1.4
+*GPS_LT9B_F,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,12,-2,3,-2,3,-2
+*GPS_LT9B_G,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,16.8,-2.8,4.2,-2.8,4.2,-2.8
+*GPS_LT9B_H,long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,24,-4,6,-4,6,-4
+*GPS_LT10B_B,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.13,-.52
+*GPS_LT10B_C,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.18,-.72
+*GPS_LT10B_D,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.25,-1
+*GPS_LT10B_E,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.35,-1.4
+*GPS_LT10B_F,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.5,-2
+*GPS_LT10B_G,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.7,-2.8
+*GPS_LT10B_H,dotted line. . . . . . . . . . . . . . . . . . . .
+A,1,-4
+*GPS_LT11B_B,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,1.56,-.52
+*GPS_LT11B_C,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,2.16,-.72
+*GPS_LT11B_D,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,3,-1
+*GPS_LT11B_E,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,4.2,-1.4
+*GPS_LT11B_F,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,6,-2
+*GPS_LT11B_G,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,8.4,-2.8
+*GPS_LT11B_H,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,12,-4
+*GPS_LT12A_B,long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,3.12,-.52,.78,-.52
+*GPS_LT12A_C,long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,4.32,-.72,1.08,-.72
+*GPS_LT12A_D,long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,6,-1,1.5,-1
+*GPS_LT12A_E,long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,8.4,-1.4,2.1,-1.4
+*GPS_LT12A_F,long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,12,-2,3,-2
+*GPS_LT12A_G,long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,16.8,-2.8,4.2,-2.8
+*GPS_LT12A_H,long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,24,-4,6,-4
+*GPS_LT12B_B,dashed short dashed line __ _ __ _ __ _ __ _ __ _ __
+A,1.56,-.52,.78,-.52
+*GPS_LT12B_C,dashed short dashed line __ _ __ _ __ _ __ _ __ _ __
+A,2.16,-.72,1.08,-.72
+*GPS_LT12B_D,dashed short dashed line __ _ __ _ __ _ __ _ __ _ __
+A,3,-1,1.5,-1
+*GPS_LT12B_E,dashed short dashed line __ _ __ _ __ _ __ _ __ _ __
+A,4.2,-1.4,2.1,-1.4
+*GPS_LT12B_F,dashed short dashed line __ _ __ _ __ _ __ _ __ _ __
+A,6,-2,3,-2
+*GPS_LT12B_G,dashed short dashed line __ _ __ _ __ _ __ _ __ _ __
+A,8.4,-2.8,4.2,-2.8
+*GPS_LT12B_H,dashed short dashed line __ _ __ _ __ _ __ _ __ _ __
+A,12,-4,6,-4
+*GPS_LT13B_B,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,1.56,-.52
+*GPS_LT13B_C,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,2.16,-.72
+*GPS_LT13B_D,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,3,-1
+*GPS_LT13B_E,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,4.2,-1.4
+*GPS_LT13B_F,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,6,-2
+*GPS_LT13B_G,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,8.4,-2.8
+*GPS_LT13B_H,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,12,-4
+*GPS_LT14B_B,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.13,-.52
+*GPS_LT14B_C,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.18,-.72
+*GPS_LT14B_D,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.25,-1
+*GPS_LT14B_E,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.35,-1.4
+*GPS_LT14B_F,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.5,-2
+*GPS_LT14B_G,dotted line. . . . . . . . . . . . . . . . . . . .
+A,.7,-2.8
+*GPS_LT14B_H,dotted line. . . . . . . . . . . . . . . . . . . .
+A,1,-4
+*GPS_LT15B_B,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,1.56,-.52
+*GPS_LT15B_C,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,2.16,-.72
+*GPS_LT15B_D,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,3,-1
+*GPS_LT15B_E,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,4.2,-1.4
+*GPS_LT15B_F,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,6,-2
+*GPS_LT15B_G,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,8.4,-2.8
+*GPS_LT15B_H,dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,12,-4
+;;
+;;
+;;
+;;  ISO 128 linetypes have been added (with extended gaps concerning
+;;  the line thickness by request of TC 213).
+;;  The size of the line segments for each defined ISO line:
+;;  A = 0,087mm; B = 0,13 mm; C = 0,18 mm; D = 0,25 mm;
+;;  E = 0,35 mm; F = 0,5 mm; G = 0,7 mm; H = 1,0 mm
+;;
+;;
+;;
+*ACAD_ISO02W100B,ISO dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,1.56,-.52
+*ACAD_ISO02W100C,ISO dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,2.16,-.72
+*ACAD_ISO02W100D,ISO dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,3,-1
+*ACAD_ISO02W100E,ISO dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,4.2,-1.4
+*ACAD_ISO02W100F,ISO dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,6,-2
+*ACAD_ISO02W100G,ISO dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,8.4,-2.8
+*ACAD_ISO02W100H,ISO dashed line __ __ __ __ __ __ __ __ __ __ __ __ __
+A,12,-4
+*ACAD_ISO03W100B,ISO dashed spaced line __    __    __    __    __    __    __
+A,1.56,-3.12
+*ACAD_ISO03W100C,ISO dashed spaced line __    __    __    __    __    __    __
+A,2.16,-4.32
+*ACAD_ISO03W100D,ISO dashed spaced line __    __    __    __    __    __    __
+A,3,-6
+*ACAD_ISO03W100E,ISO dashed spaced line __    __    __    __    __    __    __
+A,4.2,-8.4
+*ACAD_ISO03W100F,ISO dashed spaced line __    __    __    __    __    __    __
+A,6,-12
+*ACAD_ISO03W100G,ISO dashed spaced line __    __    __    __    __    __    __
+A,8.4,-16.8
+*ACAD_ISO03W100H,ISO dashed spaced line __    __    __    __    __    __    __
+A,12,-24
+*ACAD_ISO04W100B,ISO long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,3.12,-.52,.195,-.52
+*ACAD_ISO04W100C,ISO long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,4.32,-.72,.27,-.72
+*ACAD_ISO04W100D,ISO long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,6,-1,.375,-1
+*ACAD_ISO04W100E,ISO long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,8.4,-1.4,.525,-1.4
+*ACAD_ISO04W100F,ISO long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,12,-2,.75,-2
+*ACAD_ISO04W100G,ISO long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,16.8,-2.8,1.05,-2.8
+*ACAD_ISO04W100H,ISO long dashed dotted line ____ . ____ . ____ . ____ . ____
+A,24,-4,1.5,-4
+*ACAD_ISO05W100B,ISO long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,3.12,-.52,.195,-.52,.195,-.52
+*ACAD_ISO05W100C,ISO long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,4.32,-.72,.27,-.72,.27,-.72
+*ACAD_ISO05W100D,ISO long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,6,-1,.375,-1,.375,-1
+*ACAD_ISO05W100E,ISO long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,8.4,-1.4,.525,-1.4,.525,-1.4
+*ACAD_ISO05W100F,ISO long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,12,-2,.75,-2,.75,-2
+*ACAD_ISO05W100G,ISO long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,16.8,-2.8,1.05,-2.8,1.05,-2.8
+*ACAD_ISO05W100H,ISO long dashed double-dotted line ____ . . ____ . . ____ . . ____
+A,24,-4,1.5,-4,1.5,-4
+*ACAD_ISO06W100B,ISO long dashed triplicate-dotted line ____ . . . ____ . . . ____ . . . ____
+A,3.12,-.52,.195,-.52,.195,-.52,.195,-.52
+*ACAD_ISO06W100C,ISO long dashed triplicate-dotted line ____ . . . ____ . . . ____ . . . ____
+A,4.32,-.72,.27,-.72,.27,-.72,.27,-.72
+*ACAD_ISO06W100D,ISO long dashed triplicate-dotted line ____ . . . ____ . . . ____ . . . ____
+A,6,-1,.375,-1,.375,-1,.375,-1
+*ACAD_ISO06W100E,ISO long dashed triplicate-dotted line ____ . . . ____ . . . ____ . . . ____
+A,8.4,-1.4,.525,-1.4,.525,-1.4,.525,-1.4
+*ACAD_ISO06W100F,ISO long dashed triplicate-dotted line ____ . . . ____ . . . ____ . . . ____
+A,12,-2,.75,-2,.75,-2,.75,-2
+*ACAD_ISO06W100G,ISO long dashed triplicate-dotted line ____ . . . ____ . . . ____ . . . ____
+A,16.8,-2.8,1.05,-2.8,1.05,-2.8,1.05,-2.8
+*ACAD_ISO06W100H,ISO long dashed triplicate-dotted line ____ . . . ____ . . . ____ . . . ____
+A,24,-4,1.5,-4,1.5,-4,1.5,-4
+*ACAD_ISO07W100B,ISO dotted line. . . . . . . . . . . . . . . . . . . .
+A,.195,-.52
+*ACAD_ISO07W100C,ISO dotted line. . . . . . . . . . . . . . . . . . . .
+A,.27,-.72
+*ACAD_ISO07W100D,ISO dotted line. . . . . . . . . . . . . . . . . . . .
+A,.375,-1
+*ACAD_ISO07W100E,ISO dotted line. . . . . . . . . . . . . . . . . . . .
+A,.525,-1.4
+*ACAD_ISO07W100F,ISO dotted line. . . . . . . . . . . . . . . . . . . .
+A,.75,-2
+*ACAD_ISO07W100G,ISO dotted line. . . . . . . . . . . . . . . . . . . .
+A,1.05,-2.8
+*ACAD_ISO07W100H,ISO dotted line. . . . . . . . . . . . . . . . . . . .
+A,1.5,-4
+*ACAD_ISO08W100B,ISO long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,3.12,-.52,.78,-.52
+*ACAD_ISO08W100C,ISO long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,4.32,-.72,1.08,-.72
+*ACAD_ISO08W100D,ISO long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,6,-1,1.5,-1
+*ACAD_ISO08W100E,ISO long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,8.4,-1.4,2.1,-1.4
+*ACAD_ISO08W100F,ISO long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,12,-2,3,-2
+*ACAD_ISO08W100G,ISO long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,16.8,-2.8,4.2,-2.8
+*ACAD_ISO08W100H,ISO long dashed short dashed line ____ _ ____ _ ____ _ ____
+A,24,-4,6,-4
+*ACAD_ISO09W100B,ISO long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,3.12,-.52,.78,-.52,.78,-.52
+*ACAD_ISO09W100C,ISO long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,4.32,-.72,1.08,-.72,1.08,-.72
+*ACAD_ISO09W100D,ISO long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,6,-1,1.5,-1,1.5,-1
+*ACAD_ISO09W100E,ISO long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,8.4,-1.4,2.1,-1.4,2.1,-1.4
+*ACAD_ISO09W100F,ISO long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,12,-2,3,-2,3,-2
+*ACAD_ISO09W100G,ISO long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,16.8,-2.8,4.2,-2.8,4.2,-2.8
+*ACAD_ISO09W100H,ISO long dashed double-short dashed line ____ _ _ ____ _ _ ____
+A,24,-4,6,-4,6,-4
+*ACAD_ISO10W100B,ISO dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,1.56,-.52,.195,-.52
+*ACAD_ISO10W100C,ISO dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,2.16,-.72,.27,-.72
+*ACAD_ISO10W100D,ISO dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,3,-1,.375,-1
+*ACAD_ISO10W100E,ISO dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,4.2,-1.4,.525,-1.4
+*ACAD_ISO10W100F,ISO dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,6,-2,.75,-2
+*ACAD_ISO10W100G,ISO dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,8.4,-2.8,1.05,-2.8
+*ACAD_ISO10W100H,ISO dashed dotted line __ . __ . __ . __ . __ . __ . __ . __
+A,12,-4,1.5,-4
+*ACAD_ISO11W100B,ISO double-dashed dotted line __ __ . __ __ . __ __ . __ __
+A,1.56,-.52,1.56,-.52,.195,-.52
+*ACAD_ISO11W100C,ISO double-dashed dotted line __ __ . __ __ . __ __ . __ __
+A,2.16,-.72,2.16,-.72,.27,-.72
+*ACAD_ISO11W100D,ISO double-dashed dotted line __ __ . __ __ . __ __ . __ __
+A,3,-1,3,-1,.375,-1
+*ACAD_ISO11W100E,ISO double-dashed dotted line __ __ . __ __ . __ __ . __ __
+A,4.2,-1.4,4.2,-1.4,.525,-1.4
+*ACAD_ISO11W100F,ISO double-dashed dotted line __ __ . __ __ . __ __ . __ __
+A,6,-2,6,-2,.75,-2
+*ACAD_ISO11W100G,ISO double-dashed dotted line __ __ . __ __ . __ __ . __ __
+A,8.4,-2.8,8.4,-2.8,1.05,-2.8
+*ACAD_ISO11W100H,ISO double-dashed dotted line __ __ . __ __ . __ __ . __ __
+A,12,-4,12,-4,1.5,-4
+*ACAD_ISO12W100B,ISO dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,1.56,-.52,.195,-.52,.195,-.52
+*ACAD_ISO12W100C,ISO dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,2.16,-.72,.27,-.72,.27,-.72
+*ACAD_ISO12W100D,ISO dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,3,-1,.375,-1,.375,-1
+*ACAD_ISO12W100E,ISO dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,4.2,-1.4,.525,-1.4,.525,-1.4
+*ACAD_ISO12W100F,ISO dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,6,-2,.75,-2,.75,-2
+*ACAD_ISO12W100G,ISO dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,8.4,-2.8,1.05,-2.8,1.05,-2.8
+*ACAD_ISO12W100H,ISO dashed double-dotted line __ . . __ . . __ . . __ . . __
+A,12,-4,1.5,-4,1.5,-4
+*ACAD_ISO13W100B,ISO double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,1.56,-.52,1.56,-.52,.195,-.52,.195,-.52
+*ACAD_ISO13W100C,ISO double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,2.16,-.72,2.16,-.72,.27,-.72,.27,-.72
+*ACAD_ISO13W100D,ISO double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,3,-1,3,-1,.375,-1,.375,-1
+*ACAD_ISO13W100E,ISO double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,4.2,-1.4,4.2,-1.4,.525,-1.4,.525,-1.4
+*ACAD_ISO13W100F,ISO double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,6,-2,6,-2,.75,-2,.75,-2
+*ACAD_ISO13W100G,ISO double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,8.4,-2.8,8.4,-2.8,1.05,-2.8,1.05,-2.8
+*ACAD_ISO13W100H,ISO double-dashed double-dotted line __ __ . . __ __ . . __ __
+A,12,-4,12,-4,1.5,-4,1.5,-4
+*ACAD_ISO14W100B,ISO dashed triplicate-dotted line __ . . . __ . . . __ . . . __ . . . __
+A,1.56,-.52,.195,-.52,.195,-.52,.195,-.52
+*ACAD_ISO14W100C,ISO dashed triplicate-dotted line __ . . . __ . . . __ . . . __ . . . __
+A,2.16,-.72,.27,-.72,.27,-.72,.27,-.72
+*ACAD_ISO14W100D,ISO dashed triplicate-dotted line __ . . . __ . . . __ . . . __ . . . __
+A,3,-1,.375,-1,.375,-1,.375,-1
+*ACAD_ISO14W100E,ISO dashed triplicate-dotted line __ . . . __ . . . __ . . . __ . . . __
+A,4.2,-1.4,.525,-1.4,.525,-1.4,.525,-1.4
+*ACAD_ISO14W100F,ISO dashed triplicate-dotted line __ . . . __ . . . __ . . . __ . . . __
+A,6,-2,.75,-2,.75,-2,.75,-2
+*ACAD_ISO14W100G,ISO dashed triplicate-dotted line __ . . . __ . . . __ . . . __ . . . __
+A,8.4,-2.8,1.05,-2.8,1.05,-2.8,1.05,-2.8
+*ACAD_ISO14W100H,ISO dashed triplicate-dotted line __ . . . __ . . . __ . . . __ . . . __
+A,12,-4,1.5,-4,1.5,-4,1.5,-4
+*ACAD_ISO15W100B,ISO double-dashed triplicate-dotted line __ __ . . . __ __ . . . __ __
+A,1.56,-.52,1.56,-.52,.195,-.52,.195,-.52,.195,-.52
+*ACAD_ISO15W100C,ISO double-dashed triplicate-dotted line __ __ . . . __ __ . . . __ __
+A,2.16,-.72,2.16,-.72,.27,-.72,.27,-.72,.27,-.72
+*ACAD_ISO15W100D,ISO double-dashed triplicate-dotted line __ __ . . . __ __ . . . __ __
+A,3,-1,3,-1,.375,-1,.375,-1,.375,-1
+*ACAD_ISO15W100E,ISO double-dashed triplicate-dotted line __ __ . . . __ __ . . . __ __
+A,4.2,-1.4,4.2,-1.4,.525,-1.4,.525,-1.4,.525,-1.4
+*ACAD_ISO15W100F,ISO double-dashed triplicate-dotted line __ __ . . . __ __ . . . __ __
+A,6,-2,6,-2,.75,-2,.75,-2,.75,-2
+*ACAD_ISO15W100G,ISO double-dashed triplicate-dotted line __ __ . . . __ __ . . . __ __
+A,8.4,-2.8,8.4,-2.8,1.05,-2.8,1.05,-2.8,1.05,-2.8
+*ACAD_ISO15W100H,ISO double-dashed triplicate-dotted line __ __ . . . __ __ . . . __ __
+A,12,-4,12,-4,1.5,-4,1.5,-4,1.5,-4
